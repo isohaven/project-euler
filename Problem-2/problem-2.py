@@ -7,4 +7,4 @@ while(True):
     if a % 2 == 0:
         _sum += a
     a, b = b, a+b
-print(_sum)
+print(_sum) #4613732
